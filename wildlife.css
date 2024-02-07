@@ -1,0 +1,41 @@
+/* styling class*/
+
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: purple;
+}
+
+.content{
+    background-color: yellow;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#text{
+    background-color: bisque;
+    height: 200px;
+    width: 200px;
+    text-decoration: dotted;
+}
+#image{
+    background-color: seagreen;
+    height: 250px;
+    width: 200px;
+}
+#card{
+    background-color: blue;
+    height: 250px;
+    width: 100%;
+}
+.booking{
+    background-color: aquamarine;
+    justify-content: center;
+}
+#booking{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: azure;
+}
