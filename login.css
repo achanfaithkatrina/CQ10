@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.big{
+    height: 400px;
+    width: 800px;
+    background-color: brown;
+}
+#blue{
+    width: 380px;
+    height: 400px;
+    background-color:rgb(8, 192, 253); ;
+    float: left;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#cow2{
+    width: 380px;
+    height: 400px;
+    background-color: purple;
+    float: right;
+}
+#blue>img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 1px 2px 10px 2px gray;
+}
+#blue>button{
+    padding: 5px 25px;
+    border: none;
+    color:rgb(8, 192, 253);
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow:1px 2px 5px 1px ;
+}
