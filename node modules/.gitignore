@@ -1,0 +1,4 @@
+node_modules
+package.json
+package-lock json
+#never open these files they contain personal information
